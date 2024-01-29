@@ -2,6 +2,7 @@ Rencana Belajar
 - Github
 - PHP
   > angular
+  > laravel
 - My SQL
 - Mongo Db
 - Expres Js
